@@ -4,7 +4,7 @@
   <description/>
   <resources >
     <stringTable >
-      <string id="SUPPORTED_MMD44">Mattermost Desktop Application 4.4 or later</string>
+      <string id="SUPPORTED_MMD43">Mattermost Desktop Application 4.3 or later</string>
       <string id="mattermost">Mattermost</string>
       <string id="DisableAutoUpdate">Disable Auto Updater</string>
       <string id="DisableAutoUpdate_Explain">If this policy is enabled, the Mattermost Desktop Application does not receive udpates.
